@@ -5,7 +5,7 @@ Nautobot Community meeting are held in [NTC Slack](slack.networktocode.com) in t
 
 ### Schedule
 
-The proposal is 11:30am ET on Thursdays starting September 16 or 23. (_This will be updated once it is finalized_)
+Meetings will be held the last Thursday of every month starting September 30, 2020 at 11:30 ET.
 
 ### Agenda
 
