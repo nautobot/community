@@ -2,7 +2,6 @@
 
 The following is a list of Nautobot related content that exists both within and outside of this repository, e.g. blogs, YouTube videos, etc. 
 
-* Item #1 - Title & Link
 * 2021-08-30 - Slides - [Nautobot (App) Plugin Capabilities](slides/2021-09-02_Nautobot_(App)_Plugin_Capabilities.pdf)  
 * 2021-08-27 - Blog - [Nautobots, Roll Back](https://blog.networktocode.com/post/nautobots-rollback/) 
 * 2021-08-26 - Blog - [Customizing Nautobot With Apps](https://blog.networktocode.com/post/customizing-nautobot-with-apps/)
