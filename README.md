@@ -4,7 +4,7 @@ This is a central repository of community related initiatives and content.
 
 # Content
 
-See all community related content [here](content/README.md)
+See all community related content [here](content/README.md).  All are welcome to submit PRs to have their content listed here too.
 
 # Meetings
 
