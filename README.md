@@ -12,4 +12,4 @@ See more about Nautobot Community Meetings [here](meetings/README.md).
 
 # Come Join Us
 
-Feel free to swing by the Network to Code Slack workspace (channel `#nautobot`). [Sign up here](slack.networktocode.com).
+Feel free to swing by the Network to Code Slack workspace (channel `#nautobot`). [Sign up here](https://slack.networktocode.com).
