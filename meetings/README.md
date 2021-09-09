@@ -18,5 +18,7 @@ The Nautobot Community meetings are meant to be a direct line of communication f
 * New Ideas (that already have an Issue or Discussion Open)
 * Open Discussion & Forum
 
-If anyone in the community would like to discuss a specific PR, feature, issue, or idea, it should first be added to the GitHub issue for that specific meeting.  This will ensure the meetings can stay time-boxed to the alloted time.
+#### Community Agenda Items
+
+If anyone in the community would like to discuss a specific PR, feature, issue, or idea, please provide it as a comment to the GitHub issue for that specific meeting. This will ensure the meetings can stay time-boxed to the alloted time and to make sure that we can do our best to address everything.
 
