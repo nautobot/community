@@ -14,6 +14,8 @@ Please visit the [Content Library](content/README.md) to get started.
 
 Community meetings will be held monthly on Slack.
 
+Any meeting-related content will live in the `meetings/` directory.
+
 Please visit the [Nautobot Community Meetings](meetings/README.md) to learn more such as how we will run the meetings and how you can participate.
 
 # Come Join Us on Slack
