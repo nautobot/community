@@ -1,15 +1,21 @@
 # Nautobot Community
 
-This is a central repository of community related initiatives and content. 
+This is a central repository of community-related initiatives and content for the Nautobot open source community. 
 
 # Content
 
-See all community related content [here](content/README.md).  All are welcome to submit PRs to have their content listed here too.
+Here you will find an index of communit-focused content including blogs, videos, presentations, and more. All are welcome to submit PRs to have their content listed here, too!
+
+Content will live in the `contents/` directory.
+
+Please visit the [Content Library](content/README.md) to get started.
 
 # Meetings
 
-See more about Nautobot Community Meetings [here](meetings/README.md).
+Community meetings will be held monthly on Slack.
 
-# Come Join Us
+Please visit the [Nautobot Community Meetings](meetings/README.md) to learn more such as how we will run the meetings and how you can participate.
 
-Feel free to swing by the Network to Code Slack workspace (channel `#nautobot`). [Sign up here](https://slack.networktocode.com).
+# Come Join Us on Slack
+
+Please join the conversation at `#nautobot` in the Network to Code community on Slack. Signup at [slack.networktocode.com](https://slack.networktocode.com).
