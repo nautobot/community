@@ -1,7 +1,11 @@
 ## Content Library 
 
-The following is a list of Nautobot related content that exists both within and outside of this repository, e.g. blogs, YouTube videos, etc. 
+The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc. 
 
+* 2021-09-23 - Blog - [Nautobot Docker Compose](https://blog.networktocode.com/post/nautobot-docker-compose/)
+* 2021-09-16 - Blog - [Introducing the Nautobot App Ecosystem](https://blog.networktocode.com/post/introducing-nautobot-ecosystem/)  
+* 2021-09-09 - Blog - [Introducing the Nautobot Arista CloudVision SSoT Plugin](https://blog.networktocode.com/post/nautobot-plugin-ssot-arista/)  
+* 2021-09-02 - Blog - [Arista CloudVision ChatOps with Nautobot](https://blog.networktocode.com/post/arista-cloudvision-chatops-with-nautobot/)
 * 2021-08-30 - Slides - [Nautobot (App) Plugin Capabilities](slides/2021-09-02_Nautobot_(App)_Plugin_Capabilities.pdf)  
 * 2021-08-27 - Blog - [Nautobots, Roll Back](https://blog.networktocode.com/post/nautobots-rollback/) 
 * 2021-08-26 - Blog - [Customizing Nautobot With Apps](https://blog.networktocode.com/post/customizing-nautobot-with-apps/)
