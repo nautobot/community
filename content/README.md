@@ -2,6 +2,7 @@
 
 The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc. 
 
+* 2021-09-30 - Blog - [Nautobot Relationships Part 2](https://blog.networktocode.com/post/nautobot-relationships-part-2/)
 * 2021-09-23 - Blog - [Nautobot Docker Compose](https://blog.networktocode.com/post/nautobot-docker-compose/)
 * 2021-09-16 - Blog - [Introducing the Nautobot App Ecosystem](https://blog.networktocode.com/post/introducing-nautobot-ecosystem/)  
 * 2021-09-09 - Blog - [Introducing the Nautobot Arista CloudVision SSoT Plugin](https://blog.networktocode.com/post/nautobot-plugin-ssot-arista/)  
