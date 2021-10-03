@@ -61,9 +61,11 @@ Agenda: https://github.com/nautobot/community/issues/1
 >
 > `jathanism`:
 > Whoa `Stephen Kiely`!
->  _Note the below was moved from the main channel to the relavant thread_
-> `Eric Jacob`: Ok then, so any plan to update the UI with Bootstrap 5 like Netbox did?
-> 
+
+ _Note the below was moved from the main channel to the relavant thread_
+
+`Eric Jacob`: Ok then, so any plan to update the UI with Bootstrap 5 like Netbox did?
+
 > `jathanism`: Yes, we've discussed that, too, and that will be easier to do but not quite on the roadmap yet.
 > 
 > `jathanism`: Also please try to reply to the threads so we can keep the topics organized! `:slightly_smiling_face:`
