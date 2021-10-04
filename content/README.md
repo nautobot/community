@@ -1,7 +1,8 @@
-## Content Library 
+# Content Library
 
-The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc. 
+The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc.
 
+* 2021-10-03 - GitHub - [Installing Nautobot on Red Hat Enterprise Linux 8 - A Complete Walk-Through](https://github.com/beholdenkey/Installing-Nautobot-on-RHEL-A-Complete-Walk-Through)
 * 2021-09-30 - Blog - [Nautobot Relationships Part 2](https://blog.networktocode.com/post/nautobot-relationships-part-2/)
 * 2021-09-23 - Blog - [Nautobot Docker Compose](https://blog.networktocode.com/post/nautobot-docker-compose/)
 * 2021-09-16 - Blog - [Introducing the Nautobot App Ecosystem](https://blog.networktocode.com/post/introducing-nautobot-ecosystem/)  
@@ -59,8 +60,3 @@ The following is a list of Nautobot related content that exists both within and 
 * 2021-02-28 - YouTube - [Network to Code ChatOps for Network Automation with Nautobot](https://youtu.be/_AfHe05Y3DA)
 * 2021-02-28 - YouTube - [Network to Code How Nautobot Enables Golden Configuration](https://youtu.be/6TNsSR2hbZg)
 * 2021-02-25 - Blog - [Why did Network to Code Fork NetBox?](http://blog.networktocode.com/post/why-did-network-to-code-fork-netbox/)
-
-
-
-
-
