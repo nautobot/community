@@ -30,11 +30,13 @@ The following is a list of Nautobot related content that exists both within and 
 * 2021-06-17 - Blog - [Nautobot Golden Config Overview](http://blog.networktocode.com/post/nautobot-golden-config-overview/)
 * 2021-06-10 - Blog - [Automate Your Circuit Maintenances!](http://blog.networktocode.com/post/automate-your-circuit-maintenances/)
 * 2021-06-08 - YouTube - [Installing & Using the Nautobot Device Onboarding App](https://youtu.be/iThUlvAvadM)
+* 2021-06-05 - YouTube - [Learn how to leverage Nautobot's GraphQL capabilities to dynamically query Nautobot from your Ansible playbooks](https://youtu.be/g4aMH_pGo0Q ) in this session with community member Byrn Baker 
 * 2021-06-03 - Blog - [Nautobot - A Community Approach](http://blog.networktocode.com/post/nautobot-a-community-approach/)
 * 2021-05-27 - Blog - [Nautobot ChatOps Using Slack Walk-Through Video](http://blog.networktocode.com/post/nautobot-chatops-using-slack-video/)
 * 2021-05-26 - YouTube - [Up and Running with Nautobot ChatOps in Slack](https://youtu.be/O6t8jOMI_9I)
 * 2021-05-24 - YouTube - [Nautobot Shodan Integration](https://youtu.be/_cfIiQhB1Q4)
 * 2021-05-20 - Blog - [GraphQL vs. REST API Case Study](http://blog.networktocode.com/post/graphql-vs-rest-api-case-study/)
+* 2021-05-19 - YouTube - [Nautobot intro/overview from NTC community member Byrn Baker](https://youtu.be/NzwbVsewcV8)
 * 2021-05-13 - Blog - [All Things Nautobot on YouTube](http://blog.networktocode.com/post/all-things-nautobot-on-youtube/)
 * 2021-05-13 - YouTube - [Installing Nautobot in the Lab with Docker in Less Than 5 Minutes](https://youtu.be/X6g-5iwr9hI)
 * 2021-05-13 - YouTube - [Installing Nautobot 1.0.0](https://youtu.be/IYJJcgXYtnw)
