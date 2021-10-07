@@ -45,6 +45,7 @@ Agenda: https://github.com/nautobot/community/issues/1
 `jathanism`: Anyhow, at this time, there aren't any waiting on the community! So next topic!
 
 ## Q&A about Upcoming Features
+
 `jathanism`: Next up: **Q&A about Upcoming Features**
 
 `jathanism`: We have a few items provided by `@Eric Jacob` that we'll start with. Thanks for the questions, Eric!
