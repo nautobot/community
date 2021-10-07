@@ -21,6 +21,8 @@ Agenda: https://github.com/nautobot/community/issues/1
 > `Tim Fiola`:
 > Yes, please do not be shy.  Opening up doc bugs helps us understand our blind spots and fix them
 
+## Issue intake Process & Community Contributions
+
 `jathanism`: Next up: **Overview of Issue Intake Process & Community Contributions**
 
 `jathanism`: We have documented our workflow intake process and it has been evolving rapidly. Docs and diagrams can be found on the wiki here: https://github.com/nautobot/nautobot/wiki/Work-Intake-&-Issue-Management
@@ -32,6 +34,8 @@ Agenda: https://github.com/nautobot/community/issues/1
 
 `jathanism`: We use the personas to map important roles to use-cases, and it's very helpful to us in understanding how issues impact various users.
 
+## Stale Pull Requests Review
+
 `jathanism`: Next up: **Stale Pull Requests Review**
 
 `jathanism`: For this section we want to check on updates that are waiting for action from the community and not on the end of the Nautobot core team.
@@ -40,9 +44,13 @@ Agenda: https://github.com/nautobot/community/issues/1
 
 `jathanism`: Anyhow, at this time, there aren't any waiting on the community! So next topic!
 
+## Q&A about Upcoming Features
+
 `jathanism`: Next up: **Q&A about Upcoming Features**
 
 `jathanism`: We have a few items provided by `@Eric Jacob` that we'll start with. Thanks for the questions, Eric!
+
+### Feature -- Updated UI
 
 `jathanism`: - The future of the UI (have you considered client-side javascript frameworks like Vue or React?)
 
@@ -54,6 +62,16 @@ Agenda: https://github.com/nautobot/community/issues/1
 >
 > `jathanism`:
 > Whoa `Stephen Kiely`!
+
+ _Note the below was moved from the main channel to the relevant thread_
+
+`Eric Jacob`: Ok then, so any plan to update the UI with Bootstrap 5 like Netbox did?
+
+> `jathanism`: Yes, we've discussed that, too, and that will be easier to do but not quite on the roadmap yet.
+> 
+> `jathanism`: Also please try to reply to the threads so we can keep the topics organized! `:slightly_smiling_face:`
+
+### Feature -- DCIM | Floor Plan
 
 `jathanism`: - DCIM missing features like floor plan
 
@@ -132,6 +150,8 @@ Agenda: https://github.com/nautobot/community/issues/1
 > `jedelman8`:
 > We'll definitely check it out.
 
+### Feature -- Ansible & Terraform Job Runners
+
 `jathanism`: - Ansible and Terraform runners for jobs
 
 > `jathanism`:
@@ -158,10 +178,14 @@ Agenda: https://github.com/nautobot/community/issues/1
 > `Eric Jacob`:
 > One use-case in mind: We want to use the Arista AVD collection to configure Arista devices. An Ansible local runner would be useful.
 
+### Feature -- Secrets
+
 `jathanism`: - Secrets ([Initial model, UI, and REST API for Secrets nautobot#868](https://github.com/nautobot/nautobot/pull/868))
 
 > `Glenn M`:
 > This is an important feature to us and is very actively in development at this time. Keep an eye on this space!
+
+## Feature -- Firewall Model
 
 `jathanism`: - Firewall objects ([Firewall Object Model - Possibly Plugin nautobot#904](https://github.com/nautobot/nautobot/discussions/904))
 
@@ -194,6 +218,8 @@ Agenda: https://github.com/nautobot/community/issues/1
 >
 > `whitej6`:
 > {meme omitted}
+
+## Feature -- Scheduling & Approvals for Jobs 
 
 `jathanism`: - Scheduling & Approvals for jobs ([Scheduling & Approvals for jobs nautobot#805](https://github.com/nautobot/nautobot/pull/805))
 
@@ -233,11 +259,7 @@ Agenda: https://github.com/nautobot/community/issues/1
 > `jathanism`:
 > So that also means that the scheduled jobs also persist in the database and I'd like to think that also helps with troubleshooting.
 
-`Eric Jacob`: Ok then, so any plan to update the UI with Bootstrap 5 like Netbox did?
-
-`jathanism`: Yes, we've discussed that, too, and that will be easier to do but not quite on the roadmap yet.
-
-`jathanism`: Also please try to reply to the threads so we can keep the topics organized! `:slightly_smiling_face:`
+## Open Floor
 
 `jathanism`: Thanks for all the great replies on the Q&A! We're going to move to the next topic.
 
@@ -247,11 +269,42 @@ Agenda: https://github.com/nautobot/community/issues/1
 
 `jathanism`: We already discussed the firewall object model so we can skip that one.
 
+### Token 
+
 `Stephen Kiely`:
 https://github.com/nautobot/nautobot/discussions/471 Token Creation from API
 
 > `Glenn M`:
 > I think we agree it is a good idea, but haven’t prioritized it yet. We just need to decide on an implementation and do it. :-)
+
+_Note: This was moved to be inline with the parent topic_
+
+`brobare`:
+idea on when/if https://github.com/nautobot/nautobot/issues/901 is going to get worked/prioritized?
+
+> `jathanism`:
+> Great question! We did a preliminary review the other day and decided that we don't have a clear path forward.
+>
+> `jathanism`:
+> There's already permissions for tokens, but if a user has the `is_superuser=True` flag set, permissions aren't even checked. This is how it goes with Django permissions. We'd have to explicitly consider how to override this. It's not as easy as it sounds.
+>
+> `jathanism`:
+> The other alternative is completely replacing this token model with something more secure like JWT, OAuth, etc which are also ... non-trivial.
+>
+> `Eric Jacob`:
+> +1 for JWT `:slightly_smiling_face:`
+>
+> `Stephen Kiely`:
+> I like the JWT idea.
+>
+> `brobare`:
+> i didnt look at it that closely, but, you’re saying that only superusers could see other peoples tokens? Austin the Network engineer cant see PD the Plugin Developers api tokens?
+>
+> `brobare`:
+> as long as Austin isnt a SU?
+
+
+### Technical Guidance
 
 `Eric Jacob`:
 Have you any plan to release some "recipes" on how to onboard some devices based on your experiences? For example, we have a hard time figuring out how to model F5 BIG-IP systems in Nautobot with their virtual servers...
@@ -292,35 +345,16 @@ Have you any plan to release some "recipes" on how to onboard some devices based
 > `Eric Jacob`:
 > I know the discussions are closed, but another example is the SSoT Arista CloudVision plugin to synchronize CVP with Nautobot. We would like to launch a job to configure Arista switches based on newly added devices by the plugin. What's your experiences with Arista, ZTP and Nautobot? 
 
+
+## Open Floor
+
 `Glenn M`:
 Let’s move on to **Open Discussion & Forum** then `:slightly_smiling_face:`
 
 `jathanism`:
 So for open discussion, please think of this like a Reddit AMA. Ask us anything! `:slightly_smiling_face:`
 
-`brobare`:
-idea on when/if https://github.com/nautobot/nautobot/issues/901 is going to get worked/prioritized?
-
-> `jathanism`:
-> Great question! We did a preliminary review the other day and decided that we don't have a clear path forward.
->
-> `jathanism`:
-> There's already permissions for tokens, but if a user has the `is_superuser=True` flag set, permissions aren't even checked. This is how it goes with Django permissions. We'd have to explicitly consider how to override this. It's not as easy as it sounds.
->
-> `jathanism`:
-> The other alternative is completely replacing this token model with something more secure like JWT, OAuth, etc which are also ... non-trivial.
->
-> `Eric Jacob`:
-> +1 for JWT `:slightly_smiling_face:`
->
-> `Stephen Kiely`:
-> I like the JWT idea.
->
-> `brobare`:
-> i didnt look at it that closely, but, you’re saying that only superusers could see other peoples tokens? Austin the Network engineer cant see PD the Plugin Developers api tokens?
->
-> `brobare`:
-> as long as Austin isnt a SU?
+### Database Support
 
 `Eric Jacob`:
 Which databases do you plan to add support in the near future?
@@ -360,6 +394,8 @@ Which databases do you plan to add support in the near future?
 >
 > `mcgoo298`:
 > Dolthub has also released a blog: https://www.dolthub.com/blog/2021-09-24-announcing-nautobot-on-dolt/
+
+## Closing Remarks
 
 `jathanism`:
 And with that, we're out of time! Thank you everyone for participating in the first Nautobot Community Meeting! We'll post the notes and logs soon and follow-up here.
