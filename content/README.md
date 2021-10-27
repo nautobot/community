@@ -7,6 +7,7 @@ The following is a list of Nautobot related content that exists both within and 
 * 2021-10-20 - Blog - [Nautobot's first community meeting](https://blog.networktocode.com/post/nautobot-community-meetings/)
 * 2021-10-19 - YouTube - [How to set up a development environment for Nautobot ChatOps!](https://youtu.be/2gTkCspDWXY)
 * 2021-10-15 - YouTube - [Learn how to create UI views with @soapboxblather!](https://www.youtube.com/watch?v=2e4Gx317ffY)
+* 2021-10-14 - Repository - [Nautobot *Custom Jobs* repository](https://github.com/JohnFu11er/Nautobot_Custom_Jobs) by community member [John Fuller](https://github.com/JohnFu11er)
 * 2021-10-14 - Blog - [Learn about the newest Nautobot app - a plugin to interact with Cisco Meraki using the existing Nautobot ChatOps framework](https://blog.networktocode.com/post/nautobot-chatops-with-meraki/)
 * 2021-10-14 - YouTube - [Creating an API for CRUD operations!](https://www.youtube.com/watch?v=D8ekbmYR95I)
 * 2021-10-13 - YouTube - [Creating a simple model and introducing Django Testing!](https://youtu.be/wrrdAfS-0JQ)
