@@ -2,6 +2,7 @@
 
 The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc.
 
+* 2021-10-28 - Blog - [Introducing the Nautobot Helm Chart](http://blog.networktocode.com/post/nautobot-helm-charts/)
 * 2021-10-21 - Blog - [Keeping Data Clean with Nautobot Config Contexts, Schemas, and Git](https://blog.networktocode.com/post/keeping-data-clean-in-nautobot/)
 * 2021-10-20 - YouTube - [How to set up a Nautobot development environment with SSO!](https://www.youtube.com/watch?v=PYRdKT1MlLc)
 * 2021-10-20 - Blog - [Nautobot's first community meeting](https://blog.networktocode.com/post/nautobot-community-meetings/)
