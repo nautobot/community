@@ -2,6 +2,20 @@
 
 The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc.
 
+* 2021-10-28 - Blog - [Introducing the Nautobot Helm Chart](http://blog.networktocode.com/post/nautobot-helm-charts/)
+* 2021-10-21 - Blog - [Keeping Data Clean with Nautobot Config Contexts, Schemas, and Git](https://blog.networktocode.com/post/keeping-data-clean-in-nautobot/)
+* 2021-10-20 - YouTube - [How to set up a Nautobot development environment with SSO!](https://www.youtube.com/watch?v=PYRdKT1MlLc)
+* 2021-10-20 - Blog - [Nautobot's first community meeting](https://blog.networktocode.com/post/nautobot-community-meetings/)
+* 2021-10-19 - YouTube - [How to set up a development environment for Nautobot ChatOps!](https://youtu.be/2gTkCspDWXY)
+* 2021-10-15 - YouTube - [Learn how to create UI views with @soapboxblather!](https://www.youtube.com/watch?v=2e4Gx317ffY)
+* 2021-10-14 - Repository - [Nautobot *Custom Jobs* repository](https://github.com/JohnFu11er/Nautobot_Custom_Jobs) by community member [John Fuller](https://github.com/JohnFu11er)
+* 2021-10-14 - Blog - [Learn about the newest Nautobot app - a plugin to interact with Cisco Meraki using the existing Nautobot ChatOps framework](https://blog.networktocode.com/post/nautobot-chatops-with-meraki/)
+* 2021-10-14 - YouTube - [Creating an API for CRUD operations!](https://www.youtube.com/watch?v=D8ekbmYR95I)
+* 2021-10-13 - YouTube - [Creating a simple model and introducing Django Testing!](https://youtu.be/wrrdAfS-0JQ)
+* 2021-10-12 - YouTube - [Setting up an environment for plugin development](https://youtu.be/t7Xcr9yZKG8)
+* 2021-10-07 - Blog - [Scheduling and Approving Jobs in Nautobot](https://blog.networktocode.com/post/scheduling-and-approving-jobs-in-nautobot/)
+* 2021-10-06 - Blog - [Database Version Control with Nautobot](https://blog.networktocode.com/post/database-version-control-with-nautobot/)
+* 2021-10-05 - Blog - [One Parser to Rule All Your Circuit Maintenance Notifications](https://blog.networktocode.com/post/one-parser-to-rule-all-your-circuit-maintenance-notifications/)
 * 2021-10-03 - GitHub - [Installing Nautobot on Red Hat Enterprise Linux 8 - A Complete Walk-Through](https://github.com/beholdenkey/Installing-Nautobot-on-RHEL-A-Complete-Walk-Through)
 * 2021-09-30 - Blog - [Nautobot Relationships Part 2](https://blog.networktocode.com/post/nautobot-relationships-part-2/)
 * 2021-09-23 - Blog - [Nautobot Docker Compose](https://blog.networktocode.com/post/nautobot-docker-compose/)
