@@ -2,6 +2,10 @@
 
 The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc.
 
+* 2021-12-02 - Blog - [Building an Nautobot SSoT App](https://blog.networktocode.com/post/building-an-nautobot-ssot-app/)
+* 2021-11-18 - Blog - [Setting Up Nautobot ChatOps with Microsoft Teams - Fall 2021](https://blog.networktocode.com/post/setting-up-nautobot-chatops-with-msteams-fall-2021/)
+* 2021-11-11 - Blog - [The Flexibility and Power of Nautobot Jobs](https://blog.networktocode.com/post/flexibility-and-power-of-nautobot-jobs/)
+* 2021-11-04 - Blog - [Challenge for the Community - Show Us the Bugs!](https://blog.networktocode.com/post/show-us-the-bugs/)
 * 2021-10-28 - Blog - [Introducing the Nautobot Helm Chart](http://blog.networktocode.com/post/nautobot-helm-charts/)
 * 2021-10-21 - Blog - [Keeping Data Clean with Nautobot Config Contexts, Schemas, and Git](https://blog.networktocode.com/post/keeping-data-clean-in-nautobot/)
 * 2021-10-20 - YouTube - [How to set up a Nautobot development environment with SSO!](https://www.youtube.com/watch?v=PYRdKT1MlLc)
@@ -12,6 +16,8 @@ The following is a list of Nautobot related content that exists both within and 
 * 2021-10-14 - Blog - [Learn about the newest Nautobot app - a plugin to interact with Cisco Meraki using the existing Nautobot ChatOps framework](https://blog.networktocode.com/post/nautobot-chatops-with-meraki/)
 * 2021-10-14 - YouTube - [Creating an API for CRUD operations!](https://www.youtube.com/watch?v=D8ekbmYR95I)
 * 2021-10-13 - YouTube - [Creating a simple model and introducing Django Testing!](https://youtu.be/wrrdAfS-0JQ)
+* 2021-10-12 - YouTube - [Demo of the Nautobot Version Control App](https://youtu.be/6VUiJ8uumX0)
+* 2021-10-12 - YouTube - [How to Create & Add Nautobot ChatOps Subcommand](https://youtu.be/I6xGyUmmbYw) 
 * 2021-10-12 - YouTube - [Setting up an environment for plugin development](https://youtu.be/t7Xcr9yZKG8)
 * 2021-10-07 - Blog - [Scheduling and Approving Jobs in Nautobot](https://blog.networktocode.com/post/scheduling-and-approving-jobs-in-nautobot/)
 * 2021-10-06 - Blog - [Database Version Control with Nautobot](https://blog.networktocode.com/post/database-version-control-with-nautobot/)
