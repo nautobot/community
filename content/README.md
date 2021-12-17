@@ -2,6 +2,17 @@
 
 The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc.
 
+* 2021-12-16 - YouTube - [Version Control Demo Series #4 - Interacting With the Version Control App via APIs](https://youtu.be/OZdvAjXv7yo)
+* 2021-12-16 - YouTube - [Version Control Demo Series #3 - Adding a CI Pipeline to a Version Control Workflow](https://youtu.be/N5u57MJXJSU)
+* 2021-12-16 - YouTube - [Version Control Demo Series #2 - A Version Control Enabled Workflow](https://youtu.be/M9fskE5oXrk)
+* 2021-12-16 - YouTube - [Version Control Demo Series #1 - Setting Up Your Own Demo Environment](https://youtu.be/XHrTHwhbZLc)
+* 2021-12-16 - YouTube - [Version Control Intro Series #4 - Managing Pull Requests in the Version Control App](https://youtu.be/MrYM9qCvsjQ)
+* 2021-12-16 - YouTube - [Version Control Intro Series #3 - Version Control App Top-Level Navigation](https://youtu.be/_spfhP6jlak)
+* 2021-12-16 - YouTube - [Version Control Intro Series #2 - Version Control Comes to Nautobot](https://youtu.be/hRrBffPdyfw)
+* 2021-12-16 - YouTube - [Version Control Intro Series #1 - Defining the problem](https://youtu.be/2PqgYV2575Q)
+* 2021-12-16 - Blog - [Integrated Version Control in Nautobot](https://blog.networktocode.com/post/nautobot-version-control-roundup/)
+* 2021-12-09 - Blog - [Nautobot ChatOps for Grafana](https://blog.networktocode.com/post/nautobot-chatops-for-grafana/)
+* 2021-12-07 - Blog - [Nautobot Chatops for Cisco ACI](https://blog.networktocode.com/post/nautobot-chatops-for-cisco-aci/)
 * 2021-12-02 - Blog - [Building an Nautobot SSoT App](https://blog.networktocode.com/post/building-an-nautobot-ssot-app/)
 * 2021-11-18 - Blog - [Setting Up Nautobot ChatOps with Microsoft Teams - Fall 2021](https://blog.networktocode.com/post/setting-up-nautobot-chatops-with-msteams-fall-2021/)
 * 2021-11-11 - Blog - [The Flexibility and Power of Nautobot Jobs](https://blog.networktocode.com/post/flexibility-and-power-of-nautobot-jobs/)
