@@ -2,6 +2,8 @@
 
 The following is a list of Nautobot related content that exists both within and outside this repository, e.g. blogs, YouTube videos, etc.
 
+* 2021-12-22 - Slides - [Nautobot 1.2.0 Key Features + Dev Key Features Deck](slides/Nautobot_1.2.0_Key_Features_+_Dev_Key_Features.pdf)
+* 2021-12-22 - Slides - [Nautobot Version Control app webinar deck from 12-16-21](slides/Version_Control_Rollout_Dec_2021.pdf)
 * 2021-12-21 - YouTube - [Nautobot 1.2 Developer Facing Feature Overview](https://youtu.be/IWLJ_VGa7po)
 * 2021-12-21 - YouTube - [Nautobot 1.2 Feature Overview](https://youtu.be/-F_bbo-0veQ)
 * 2021-12-16 - YouTube - [Version Control Demo Series #4 - Interacting With the Version Control App via APIs](https://youtu.be/OZdvAjXv7yo)
