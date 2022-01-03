@@ -1,6 +1,6 @@
 ## Nautobot Community Meetings
 
-Nautobot Community meeting are held in [NTC Slack](https://slack.networktocode.com) in the `nautobot` channel.
+Nautobot Community Meetings are held in [NTC Slack](https://slack.networktocode.com) in the `#nautobot` channel.
 
 
 ### Schedule
