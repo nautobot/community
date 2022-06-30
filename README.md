@@ -4,7 +4,7 @@ This is a central repository of community-related initiatives and content for th
 
 # Content
 
-Here you will find an index of communit-focused content including blogs, videos, presentations, and more. All are welcome to submit PRs to have their content listed here, too!
+Here you will find an index of community-focused content including blogs, videos, presentations, and more. All are welcome to submit PRs to have their content listed here, too!
 
 Content will live in the `contents/` directory.
 
@@ -20,4 +20,4 @@ Please visit the [Nautobot Community Meetings](meetings/README.md) to learn more
 
 # Come Join Us on Slack
 
-Please join the conversation at `#nautobot` in the Network to Code community on Slack. Signup at [slack.networktocode.com](https://slack.networktocode.com).
+Please join the conversation at `#nautobot` in the Network to Code community on Slack. Sign up at [slack.networktocode.com](https://slack.networktocode.com).

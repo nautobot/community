@@ -90,7 +90,7 @@ The following is a list of Nautobot related content that exists both within and 
 * 2021-03-29 - YouTube - [Exploring the Nautobot GraphQL API](https://youtu.be/SUezEhfsSUw)
 * 2021-03-25 - Blog - [Leveraging the Power of GraphQL with Nautobot](http://blog.networktocode.com/post/leveraging-the-power-of-graphql-with-nautobot/)
 * 2021-03-18 - Blog - [Getting Nautobot Up and Running in the Lab](http://blog.networktocode.com/post/getting-nautobot-up-and-running-in-the-lab/)
-* 2021-03-11 - BLog - [Hello, Nautobot!](http://blog.networktocode.com/post/hello-nautobot/)
+* 2021-03-11 - Blog - [Hello, Nautobot!](http://blog.networktocode.com/post/hello-nautobot/)
 * 2021-02-28 - YouTube - [Network to Code Nautobot Overview](https://youtu.be/_vq-rtTRLRk)
 * 2021-02-28 - YouTube - [Network to Code Source of Truth Extensibility with Nautobot](https://youtu.be/R6Dkoh-vaSc)
 * 2021-02-28 - YouTube - [Network to Code Nautobot Data Quality & Visibility](https://youtu.be/eUE0Ni7SthY)
